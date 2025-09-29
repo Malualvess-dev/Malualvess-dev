@@ -1,37 +1,32 @@
-👋 Hi, I'm Maria Luiza Alves de Aquino!
+👋 Olá, eu sou a Maria Luiza Alves de Aquino!
 
-🎓 I'm currently studying **Analysis and Systems Development**  
-💻 Passionate about **backend development**  
-🚀 Always exploring new technologies, solving problems, and improving my coding skills  
-📚 Learning through hands-on projects and everyday practice
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas
+💻 Apaixonada por desenvolvimento backend
+🚀 Sempre explorando novas tecnologias, resolvendo problemas e aprimorando minhas habilidades de programação
+📚 Aprendendo na prática com projetos e desafios do dia a dia
 
----
+🛠️ Tecnologias que estou aprendendo
 
-## 🛠️ Technologies I'm learning:
+💡 Programação com Python e Java
+🧠 Fundamentos de estruturas de dados
+🔧 Uso de SQL e bancos de dados relacionais (MySQL, PostgreSQL)
+🔗 Criação de APIs RESTful
+🧪 Controle de versão com Git e GitHub
 
-- 💡 Programming with **Python** and **Java**
-- 🧠 Understanding the fundamentals of **data structures**
-- 🔧 Working with **SQL** and **relational databases** (MySQL, PostgreSQL)
-- 🔗 Building **RESTful APIs**
-- 🧪 Using **Git** and **GitHub** for version control
+🌱 Atualmente focada em
 
----
+Programação Orientada a Objetos (POO)
 
-## 🌱 Currently focusing on:
+Clean Code e boas práticas
 
-- Object-Oriented Programming (OOP)
-- Clean Code and best practices
-- API development and integration
-- Database design and optimization
+Desenvolvimento e integração de APIs
 
----
+Modelagem e otimização de bancos de dados
 
-## 📫 How to reach me:
+📫 Como me encontrar
 
-- LinkedIn: https://www.linkedin.com/in/maluaquino/
-- Email:maluaquino1007@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/maluaquino
 
----
+📧 maluaquino1007@gmail.com
 
-✨ Thanks for visiting my GitHub! I'm always open to learning and collaborating. Let's grow together! 🚀w link to take a look at your changes.
---->
+✨ Obrigada por visitar meu GitHub! Estou sempre aberta a aprender e colaborar. Vamos crescer juntos! 🚀

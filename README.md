@@ -28,8 +28,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/maluaquino">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maluaquino&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluaquino&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Malualvess-Dev&show_icons=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malualvess-Dev&layout=compact&theme=radical"/>
   </a>
 </div>
 
